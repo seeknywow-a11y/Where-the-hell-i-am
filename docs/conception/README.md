@@ -27,10 +27,10 @@ Le plaisir vient de deux formes d'observation : repérer un détail visuel qui a
 
 - [Déroulement, règles et enquête](jeu-et-trame.md)
 - [Agencement du poste de tri](poste-type.md)
-- [Pistes d'anomalies](anomalies.md)
+- [Règles des anomalies](anomalies.md)
 - [Suivi des anomalies par poste](suivi-anomalies.md)
-- [Propositions d'anomalies du mur est](anomalies-mur-est.md)
-- [Propositions d'anomalies du mur nord](anomalies-mur-nord.md)
+- [Anomalies retenues du mur est](anomalies-mur-est.md)
+- [Anomalies retenues du mur nord](anomalies-mur-nord.md)
 - [Anomalies retenues du mur ouest](anomalies-mur-ouest.md)
 - [Anomalies retenues du mur sud](anomalies-mur-sud.md)
 - [Anomalies du décor général](anomalies-decor-general.md)
